@@ -111,3 +111,53 @@ This project enhances the user's understanding of control flow, user input valid
 ## License Information
 
 This project is licensed under the MIT License.
+
+
+# Project Title: Milestone 5 - Hangman Game with Play Function
+
+## Table of Contents
+
+1. Introduction
+2. Project Overview
+3. Project Objectives
+4. Project Tasks
+5. Installation Instructions
+6. Usage Instructions
+7. File Structure
+8. License Information
+
+## Introduction
+
+This project builds upon the previous milestones by enhancing the hangman game with a dedicated play function. The play function encapsulates the game logic, including setting up the game, handling user input, and checking for victory or loss conditions. This separation of concerns improves the code's organization and readability.
+
+## Project Overview
+
+This project enhances the user's understanding of code organization, function design, and game logic implementation. By creating a dedicated play function, the user gains hands-on experience with modularizing code, encapsulating game logic, and improving overall code structure.
+
+## Project Objectives
+
+- Implement a dedicated play function to manage game logic
+- Separate game logic from the main script for improved organization
+- Encapsulate game state and operations within the play function
+- Enhance code readability and maintainability
+
+## Project Tasks
+
+1. Create a play function that takes a word list as a parameter
+2. Move the game logic from the main script into the play function
+3. Handle game setup, user input, and game state management within the play function
+4. Check for victory or loss conditions and display appropriate messages
+
+## Installation Instructions
+
+1. Ensure Python 3.x or higher is installed
+2. Verify the Python environment is properly configured
+
+## Usage Instructions
+
+1. Execute the 'milestone_5.py' file using the Python command line
+
+## File Structure
+
+- milestone_4.py: The main Python script containing the Hangman class implementation
+- milestone_5.py: The Python script containing the play function and game execution
